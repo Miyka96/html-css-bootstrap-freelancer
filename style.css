@@ -1,0 +1,13 @@
+#background_nav{
+    background-color: #2C3E50;
+}
+#nav_title{
+    text-transform: uppercase;
+}
+#nav_items{
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.ms_bg_green{
+    background-color: #1ABC9C;
+}
