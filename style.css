@@ -37,8 +37,22 @@
     color: white;
     font-size: 25px;
 }
+#icon_star_black{
+    text-align: center;
+    color: #2C3E50;
+    font-size: 25px;
+}
 .solid {
-    width: 70px;
+    width: 100px;
     height: 2px;
     background-color: white;
   }
+
+.solid_black{
+    width: 100px;
+    height: 2px;
+    background-color: #2C3E50;
+}
+.card_img{
+    height: 100px;
+}
