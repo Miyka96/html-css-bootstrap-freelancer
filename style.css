@@ -54,5 +54,13 @@
     background-color: #2C3E50;
 }
 .card_img{
-    height: 100px;
+    width: 100%;
+}
+.paragraph{
+    column-count: 2;
+}
+@media screen and (max-width:470px) {
+    .paragraph{
+        column-count: 1;
+    }
 }
